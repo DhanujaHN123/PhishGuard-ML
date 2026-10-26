@@ -1,0 +1,7 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+PhiUSIIL_Phishing_URL_Dataset.csv
+phishguard_features.csv
+*.joblib

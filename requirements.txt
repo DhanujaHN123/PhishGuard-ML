@@ -1,0 +1,5 @@
+@'
+pandas
+numpy
+scikit-learn
+'@ | Set-Content requirements.txt
